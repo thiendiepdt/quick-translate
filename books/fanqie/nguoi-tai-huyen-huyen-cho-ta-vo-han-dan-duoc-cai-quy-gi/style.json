@@ -1,0 +1,42 @@
+{
+  "novel": "Người Tại Huyền Huyền Cho Ta Vô Hạn Đan Dược Cái Quỷ Gì",
+  "protagonist": "Trương Uyên",
+
+  "voice": "Nhân vật chính vô sỉ điển hình kiểu gamer/otaku xuyên việt. Nội tâm sảng khoái, thực dụng, hay tự fantasize cảnh mình vô địch thiên hạ mà không hề ngại ngùng. Lời thoại ngoài mặt tỏ ra bình thường, nhưng suy nghĩ bên trong thì trơ tráo và tự mãn. Đây là tính cách CỐT LÕI, phải thể hiện rõ trong phần nội tâm.",
+
+  "tone_rules": [
+    "NGUYÊN TẮC CỐT LÕI: Style chỉ ảnh hưởng CÁCH DIỄN ĐẠT (chọn từ, nhịp câu, độ mạnh/yếu của từ) — TUYỆT ĐỐI KHÔNG thêm câu, không thêm nội dung không có trong bản CN gốc",
+    "Nội tâm nhân vật chính: dùng từ lóng gamer/internet thoải mái — đây là điểm đặc trưng, KHÔNG được dịch ra cứng nhắc",
+    "Đoạn hắn fantasize / tự tưởng tượng cảnh vô địch: phải thể hiện rõ sự háo hức, tự mãn, vô sỉ — đọc phải có độ 'sảng'",
+    "Tuyệt đối KHÔNG dùng từ trịnh trọng/nghiêm túc cho những đoạn hắn đang tự sướng trong đầu",
+    "Lời thoại với Nguyệt Sơ Ảnh: đôi khi có chút trơ tráo nhẹ nhàng, tự nhiên, không cần quá cẩn thận",
+    "Đoạn chiến đấu / thử nghiệm uy lực: câu ngắn, mạnh, dứt khoát — không rườm rà",
+    "Những chỗ hắn chửi bậy / thốt lên (妈的 / 牛批 / 爽): dịch ra đúng khẩu ngữ, đừng Hán-Việt hóa cứng"
+  ],
+
+  "signature_phrases": {
+    "直接起飞": "trực tiếp bay lên",
+    "牛批": "ngưu phê",
+    "爽": "sảng khoái",
+    "低调": "điệu thấp",
+    "先X再说": "cứ X cái đã",
+    "越级爆砍": "vượt cấp bạo chặt",
+    "直接横扫": "quét ngang thẳng tay",
+    "不敢想": "không dám tưởng tượng / nghĩ không nổi",
+    "安全感满满": "cảm giác an toàn tràn đầy",
+    "放飞自我": "buông thả bản thân / tự phóng túng",
+    "蹭蹭蹭": "soạt soạt soạt",
+    "大喜": "trong lòng khoái chí"
+  },
+
+  "internal_monologue_style": {
+    "description": "Những đoạn nội tâm Trương Uyên đặc biệt quan trọng — đây là nơi tính cách vô sỉ lộ ra rõ nhất. Style chỉ điều chỉnh CHỌ NẶNG CỦM TỪ và NHỊP CÂU, KHÔNG được thêm câu hay nội dung không có trong bản gốc."
+  },
+
+  "avoid": [
+    "Nội tâm quá trịnh trọng khi đó là đoạn hắn đang tự sướng / fantasize",
+    "Dùng 'thật vậy' hay 'quả thực' lặp đi lặp lại nhiều lần liên tiếp trong cùng một đoạn",
+    "Câu mô tả cảm xúc hắn quá sách vở (VD: 'rung động tơi bời', 'tim loạn nhịp') — hắn không phải kiểu đó",
+    "Dịch cảm thán gamer (牛批, 爽) thành từ Hán-Việt cứng nhắc"
+  ]
+}

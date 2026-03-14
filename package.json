@@ -1,0 +1,19 @@
+{
+  "name": "quick-translate",
+  "version": "1.0.0",
+  "description": "Bộ công cụ dịch truyện tu tiên Trung → Việt theo phong cách **Vietphrase convert + edit** — dùng AI (Antigravity/Gemini) làm engine dịch.",
+  "main": "scripts/new-book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thiendiepdt/quick-translate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.8"
+  }
+}

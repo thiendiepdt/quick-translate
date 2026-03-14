@@ -1,0 +1,24 @@
+{
+  "_instructions": "File này định nghĩa giọng văn và tone cho truyện này. QUAN TRỌNG: style chỉ ảnh hưởng CÁCH DIỄN ĐẠT (chọn từ, nhịp câu) — TUYỆT ĐỐI KHÔNG thêm nội dung không có trong bản CN gốc.",
+  "novel": "Tên truyện đầy đủ tiếng Việt",
+  "protagonist": "Tên nhân vật chính",
+
+  "voice": "Mô tả cá tính nhân vật chính. Ví dụ: 'Tu tiên nghiêm túc, ít nói, tính cách lạnh lùng bên ngoài nhưng ấm áp bên trong. Lời thoại ngắn gọn, súc tích.'",
+
+  "tone_rules": [
+    "NGUYÊN TẮC CỐT LÕI: Style chỉ ảnh hưởng CÁCH DIỄN ĐẠT (chọn từ, nhịp câu, độ mạnh/yếu của từ) — TUYỆT ĐỐI KHÔNG thêm câu, không thêm nội dung không có trong bản CN gốc",
+    "Thêm quy tắc riêng của truyện này ở đây",
+    "Ví dụ: 'Đoạn chiến đấu: câu ngắn, mạnh, dứt khoát'",
+    "Ví dụ: 'Nội tâm nhân vật chính: dùng từ Hán-Việt trang trọng'"
+  ],
+
+  "signature_phrases": {
+    "中文词汇": "cách dịch đặc trưng",
+    "_comment": "Thêm các từ/cụm từ đặc trưng của truyện này và cách dịch nhất quán"
+  },
+
+  "avoid": [
+    "Liệt kê những lỗi dịch cần tránh đặc thù cho truyện này",
+    "Ví dụ: 'Không dùng từ quá trang trọng cho nhân vật chính vì hắn không phải kiểu đó'"
+  ]
+}

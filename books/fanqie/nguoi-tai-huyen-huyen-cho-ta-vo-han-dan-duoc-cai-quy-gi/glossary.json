@@ -1,0 +1,64 @@
+{
+  "names": {
+    "张渊": "Trương Uyên",
+    "月疏影": "Nguyệt Sơ Ảnh"
+  },
+  "places": {
+    "清霄门": "Thanh Tiêu Môn",
+    "鸿蒙虚空": "Hồng Mông Hư Không",
+    "万界星河": "Vạn Giới Tinh Hà",
+    "大罗天": "Đại La Thiên",
+    "四天九界": "Tứ Thiên Cửu Giới",
+    "雨之仙界": "Vũ Chi Tiên Giới"
+  },
+  "items": {
+    "水华露": "thủy hoa lộ",
+    "灵卵": "linh noãn",
+    "止血散": "chỉ huyết tán",
+    "火球符": "hỏa cầu phù"
+  },
+  "creatures": {
+    "灵豚": "Linh trư",
+    "七星鲈": "Thất Tinh Lư",
+    "寒血鲈": "Hàn Huyết Lư",
+    "剑黄鱼": "Kiếm Hoàng Ngư",
+    "青黄鸡": "Thanh Hoàng Kê"
+  },
+  "buildings": {
+    "鱼塘": "Ao cá",
+    "鸡圈": "Lồng gà",
+    "猪圈": "Chuồng heo",
+    "鱼栏": "ngư lan"
+  },
+  "skills": {
+    "辟谷": "Tích Cốc",
+    "水箭术": "Thủy Tiễn Thuật"
+  },
+  "common": {
+    "光幕": "màn ánh sáng",
+    "灵效": "Linh hiệu",
+    "升级": "Thăng cấp",
+    "升级条件": "Thăng cấp điều kiện",
+    "建筑升级面板": "Kiến trúc thăng cấp mặt ngoài",
+    "内政彗星": "Nội Chính Tuệ Tinh",
+    "护道大阵": "hộ đạo đại trận",
+    "护道神兽": "hộ đạo thần thú",
+    "仙居费": "tiên cư phí",
+    "劫修": "kiếp tu",
+    "一派之主": "nhất phái chi chủ"
+  },
+  "signature_phrases": {
+    "直接起飞": "trực tiếp bay lên",
+    "牛批": "ngưu phê",
+    "爽": "sảng khoái",
+    "低调": "điệu thấp",
+    "先X再说": "cứ X cái đã",
+    "越级爆砍": "vượt cấp bạo chặt",
+    "直接横扫": "quét ngang thẳng tay",
+    "不敢想": "không dám tưởng tượng",
+    "安全感满满": "cảm giác an toàn tràn đầy",
+    "放飞自我": "buông thả bản thân",
+    "蹭蹭蹭": "soạt soạt soạt",
+    "大喜": "trong lòng khoái chí"
+  }
+}

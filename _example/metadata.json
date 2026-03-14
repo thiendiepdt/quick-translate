@@ -1,0 +1,9 @@
+{
+  "_instructions": "File này lưu thông tin meta của truyện. Điền đầy đủ để liên kết với nguồn gốc.",
+  "novel": "Tên truyện đầy đủ tiếng Việt",
+  "source": "fanqie | qidian | other",
+  "book_id": "ID truyện từ URL nguồn (để trống nếu không có)",
+  "slug": "ten-truyen-slug-bookid",
+  "protagonist": "Tên nhân vật chính (tiếng Việt Hán-Việt)",
+  "description": "Mô tả ngắn về truyện (1-2 câu)"
+}

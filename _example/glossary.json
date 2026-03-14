@@ -1,0 +1,21 @@
+{
+  "_instructions": "Đây là glossary riêng cho truyện này. Thêm tên nhân vật, địa danh, và thuật ngữ đặc thù vào đây. Thuật ngữ tu tiên chung (linh thạch, đan dược...) đã có trong glossary.json gốc ở root, không cần thêm lại.",
+  "meta": {
+    "novel": "Tên truyện tiếng Việt",
+    "source": "fanqie | qidian | other",
+    "book_id": "ID truyện từ nguồn",
+    "description": "Mô tả ngắn về truyện"
+  },
+  "names": {
+    "张三": "Trương Tam",
+    "李四": "Lý Tứ"
+  },
+  "places": {
+    "清霄门": "Thanh Tiêu Môn"
+  },
+  "items": {},
+  "creatures": {},
+  "skills": {},
+  "common": {},
+  "signature_phrases": {}
+}

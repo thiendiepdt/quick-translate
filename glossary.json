@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "description": "Thuật ngữ tu tiên CHUNG — dùng cho mọi truyện. Tên nhân vật/địa danh riêng để trong books/{slug}/glossary.json",
+    "version": "2.0"
+  },
+  "cultivation": {
+    "练气": "Luyện Khí",
+    "筑基": "Trúc Cơ",
+    "金丹": "Kim Đan",
+    "元婴": "Nguyên Anh",
+    "化神": "Hóa Thần",
+    "炼虚": "Luyện Hư",
+    "合体": "Hợp Thể",
+    "大乘": "Đại Thừa",
+    "渡劫": "Độ Kiếp",
+    "散修": "tán tu",
+    "修仙者": "tu tiên giả",
+    "修行者": "tu hành giả",
+    "修为": "tu vi",
+    "功法": "công pháp",
+    "法术": "pháp thuật",
+    "神通": "thần thông",
+    "绝学": "tuyệt học",
+    "阵法": "trận pháp",
+    "传承": "truyền thừa",
+    "结界": "kết giới",
+    "剑道": "kiếm đạo",
+    "剑修": "kiếm tu",
+    "道统": "đạo thống",
+    "机缘": "cơ duyên",
+    "天骄": "thiên kiêu",
+    "掟决": "kết ấn",
+    "心神": "tâm thần",
+    "境界": "cảnh giới",
+    "神识": "thần thức",
+    "灵气复苏": "linh khí hồi phục"
+  },
+  "items": {
+    "灵石": "linh thạch",
+    "下品灵石": "hạ phẩm linh thạch",
+    "中品灵石": "trung phẩm linh thạch",
+    "上品灵石": "thượng phẩm linh thạch",
+    "丹药": "đan dược",
+    "符箓": "phù lục",
+    "灵气": "linh khí",
+    "法宝": "pháp bảo",
+    "灵草": "linh thảo",
+    "玉简": "ngọc giản",
+    "玉佩": "ngọc bội"
+  },
+  "buildings": {
+    "洞府": "Động phủ",
+    "坊市": "phương thị",
+    "灵田": "Linh điền",
+    "山门": "sơn môn"
+  },
+  "creatures": {
+    "灵鱼": "Linh Ngư",
+    "半灵鱼": "Bán Linh Ngư",
+    "妖兽": "yêu thú",
+    "妖族": "yêu tộc",
+    "丧尸": "thây ma"
+  },
+  "ranks": {
+    "一阶初期": "nhất giai sơ kỳ",
+    "一阶中期": "nhất giai trung kỳ",
+    "一阶后期": "nhất giai hậu kỳ",
+    "练气一层": "Luyện Khí tầng một",
+    "练气二层": "Luyện Khí tầng hai",
+    "练气三层": "Luyện Khí tầng ba",
+    "练气四层": "Luyện Khí tầng bốn",
+    "不入流": "Bất nhập lưu"
+  },
+  "relations": {
+    "师父": "sư phụ",
+    "师兄": "sư huynh",
+    "师弟": "sư đệ",
+    "师妹": "sư muội",
+    "师尊": "sư tôn",
+    "弟子": "đệ tử",
+    "大弟子": "đại đệ tử",
+    "门主": "môn chủ",
+    "掌教": "chưởng giáo"
+  },
+  "slang": {
+    "妈的": "Mẹ nó",
+    "开挂": "bật hack",
+    "金手指": "ngón tay vàng",
+    "蓝星": "lam tinh",
+    "天崩开局": "trời sập bắt đầu",
+    "一命呜呼": "chết thẳng cẳng",
+    "腹诽": "oán thầm",
+    "洒脱": "thoải mái",
+    "随缘": "tùy duyên"
+  },
+  "common": {
+    "提示音": "thanh âm nhắc nhở",
+    "特意": "cố ý",
+    "命格": "mệnh cách",
+    "忠诚度": "độ trung thành",
+    "悟性": "ngộ tính",
+    "修炼资质": "tư chất tu luyện",
+    "原主": "nguyên chủ",
+    "义无反顾": "làm việc nghĩa không chùn bước",
+    "没想到": "ngoài ý muốn",
+    "白衣少女": "bạch y thiếu nữ",
+    "青衣": "thanh y",
+    "秘典": "bí điển",
+    "幽幽": "yếu ớt"
+  }
+}
